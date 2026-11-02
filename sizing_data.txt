@@ -1,0 +1,22 @@
+vehicle	published	tool	error	solid
+Delta II 7920	231,870	231,031	−0.4%	–
+Delta IV Heavy	733,000	735,832	+0.4%	–
+Vega	137,000	137,649	+0.5%	YES
+M-V	139,000	139,903	+0.6%	YES
+Ariane 5 ECA	780,000	802,820	+2.9%	–
+Vega C	210,000	219,644	+4.6%	YES
+H-IIA 202	285,000	302,154	+6.0%	–
+Firefly Alpha	54,000	57,298	+6.1%	–
+Soyuz-2.1b	312,000	279,263	−10.5%	–
+Scout G-1	21,708	19,218	−11.5%	YES
+Saturn V	2,894,000	2,511,270	−13.2%	–
+Falcon 9	549,054	627,131	+14.2%	–
+Titan II GLV	154,000	178,294	+15.8%	–
+Pegasus XL	23,130	19,070	−17.6%	YES
+Atlas V 551	587,000	475,540	−19.0%	–
+Epsilon	95,400	71,319	−25.2%	YES
+Electron	13,000	16,350	+25.8%	–
+Zhuque-2	219,000	149,518	−31.7%	–
+	median |error|	mean
+With solid stages (6)	8.0% (was 33.4%)	10.0%
+All-liquid (12)	11.9%	12.2%
